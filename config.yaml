@@ -1,0 +1,6 @@
+path: C:/Users/Manan Verma/OneDrive - LNMIIT/Coding/Projects/Number Plate Reader/datasets
+train: images/train
+val: images/val
+
+names:
+  0: number_plate
